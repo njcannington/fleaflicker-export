@@ -1,5 +1,5 @@
 # Fleaflicker exporter
-Fleaflicker doesn't have any built-in export options. This tool will scrape the pages, grabbing the necessary information (Team Name, Player Name, Plaery Position). This tool assumes the league type is "NFL".
+Fleaflicker doesn't have any built-in export options. This tool will scrape the pages, grabbing the necessary information (Team Name, Player Name, Player Position). This tool assumes the league type is "NFL".
 
 
 ## Out of the box usage
