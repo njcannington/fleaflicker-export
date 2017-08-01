@@ -36,6 +36,7 @@ class Team extends Fleaflicker
 		$html = str_replace("IR</span>","",$html);
 		$html = preg_replace("#<[^>]+>#","",$html);
 		$html = str_replace("&#39;","'",$html);
+		$html = str_replace("PUP","",$html);
 
 		return $html;
 
